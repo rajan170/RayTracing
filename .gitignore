@@ -1,0 +1,91 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# macOS generated files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# CMake files
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+CTestTestfile.cmake
+
+# Build directories
+/build/
+/dist/
+/bin/
+/lib/
+/logs/
+/tmp/
+/obj/
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+*~
+
+# Generated files
+*.d
+*.map
+*.log
+
+# Coverage files
+*.gcno
+*.gcda
+*.gcov
+coverage/
+coverage.info
+lcov-report/
+
+# Other files
+*.ipynb_checkpoints
+*.DS_Store
+*.log
+*.log.*
+*.log.bak
